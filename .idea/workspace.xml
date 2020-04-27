@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="522df4aa-9889-435a-8da5-4a0866d28d13" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KGProject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/KGProject/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KGProject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/KGProject/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neo/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/neo/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neo/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/neo/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +39,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/KGproject/backend" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -119,7 +123,12 @@
       <workItem from="1587697749274" duration="5901000" />
       <workItem from="1587738006223" duration="3184000" />
       <workItem from="1587819518987" duration="548000" />
-      <workItem from="1587822793838" duration="873000" />
+      <workItem from="1587822793838" duration="1370000" />
+      <workItem from="1587879118875" duration="26214000" />
+      <workItem from="1587963461207" duration="9591000" />
+      <workItem from="1587976057190" duration="5107000" />
+      <workItem from="1587994335028" duration="14000" />
+      <workItem from="1587998028960" duration="1185000" />
     </task>
     <servers />
   </component>
@@ -127,9 +136,25 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587976173822">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1587976173822" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1587893106533">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1587893106533" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1587739778337">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1587739778337" />
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1587998029434">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1587998029434" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1587972452325">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1587972452325" />
   </component>
 </project>

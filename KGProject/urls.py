@@ -25,5 +25,10 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     # path('', include('home.urls')),
     url(r'^$', TemplateView.as_view(template_name="index.html")),
-    url(r'^search',views.search_entity),
+    url(r'^matchAll', views.match_all),
+    url(r'^searchByTitle', views.search_by_title),
+    url(r'^searchByKeyword', views.search_by_keyword),
+    url(r'^searchByAuthor', views.search_by_author),
+    url(r'^searchTitleByAlgorithm', views.search_title_by_algorithm),
+    url(r'^search', views.search_entity),
 ]
